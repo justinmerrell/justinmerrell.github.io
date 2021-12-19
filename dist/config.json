@@ -3,16 +3,13 @@
   "username": "justinmerrell",
   "name": "Justin Merrell",
   "userimg": "https://avatars.githubusercontent.com/u/14996837?v=4",
-  "sort": "updated",
-  "order": "desc",
+  "sort": "created",
+  "order": "asc",
   "includeFork": false,
-  "theme": "dark.css",
+  "theme": "light.css",
   "types": [
-   "owner"
+   "all"
   ],
-  "twitter": "merrellio",
-  "linkedin": null,
-  "medium": null,
-  "dribbble": null
+  "twitter": "merrellio"
  }
 ]
